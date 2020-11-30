@@ -29,3 +29,17 @@ body {
   background-color: #D4EFDF;
   padding: 30px;
 }
+
+.remove {
+  height: 20px;
+  width: 60px;
+  margin-left: 20px;
+
+
+  font-size: 12px
+}
+
+li {
+  padding: 20px;
+
+}
